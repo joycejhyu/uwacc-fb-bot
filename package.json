@@ -1,0 +1,23 @@
+{
+  "name": "uwacc-fb-bot",
+  "version": "1.0.0",
+  "description": "A Facebook Messenger bot for UWaterloo A Cappella Club to address inquiries regarding auditions and performances.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joycejhyu/uwacc-fb-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joycejhyu/uwacc-fb-bot/issues"
+  },
+  "homepage": "https://github.com/joycejhyu/uwacc-fb-bot#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
